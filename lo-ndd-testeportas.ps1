@@ -1,7 +1,6 @@
 # =============================================================================
-# DIAGNÓSTICO TÉCNICO: NDD
-# Versão: 2.0
-# Descrição: Testa conectividade TCP/UDP entre servidor NDD e impressoras. 
+# Descrição: Testa conectividade TCP/UDP entre servidor\host NDD e impressoras. 
+# Autor: Rafael Zonta
 # =============================================================================
 
 # ----------------------------- CONFIGURAÇÕES ---------------------------------
